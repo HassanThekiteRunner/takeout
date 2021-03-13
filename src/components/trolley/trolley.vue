@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-23 20:29:59
- * @LastEditTime: 2021-02-27 12:00:52
+ * @LastEditTime: 2021-03-07 14:14:22
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \gshop-server_finale:\有关JS、vue的练习\vue练习\vue外卖项目练习\takeout\src\components\trolley\trolley.vue

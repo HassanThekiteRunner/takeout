@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-20 15:12:03
- * @LastEditTime: 2021-02-23 20:57:24
+ * @LastEditTime: 2021-03-06 13:21:02
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \gshop-server_finale:\有关JS、vue的练习\vue练习\vue外卖项目练习\takeout\src\components\foot.vue

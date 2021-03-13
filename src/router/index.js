@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-02-20 14:39:26
- * @LastEditTime: 2021-02-24 21:17:29
+ * @LastEditTime: 2021-03-06 19:54:08
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \gshop-server_finale:\有关JS、vue的练习\vue练习\vue外卖项目练习\takeout\src\router\index.js
